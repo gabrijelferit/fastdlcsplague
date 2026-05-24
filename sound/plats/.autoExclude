@@ -1,0 +1,16 @@
+vehicle3.wav
+vehicle7.wav
+.autoExclude
+vehicle6.wav
+vehicle_brake1.wav
+vehicle_ignition.wav
+vehicle_start1.wav
+vehicle4.wav
+vehicle1.wav
+vehicle2.wav
+*.lck
+*.tmp
+*.log
+*.log.gz
+temp
+logs

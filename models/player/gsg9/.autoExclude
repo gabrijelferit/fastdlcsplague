@@ -1,0 +1,8 @@
+.autoExclude
+gsg9.mdl
+*.lck
+*.tmp
+*.log
+*.log.gz
+temp
+logs

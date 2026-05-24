@@ -1,0 +1,12 @@
+.autoExclude
+plane_drone.wav
+talk.wav
+killChicken.wav
+cow.wav
+sheep.wav
+*.lck
+*.tmp
+*.log
+*.log.gz
+temp
+logs

@@ -1,0 +1,11 @@
+.autoExclude
+ripple.spr
+snowflake.spr
+rain.spr
+rainsplash.spr
+*.lck
+*.tmp
+*.log
+*.log.gz
+temp
+logs

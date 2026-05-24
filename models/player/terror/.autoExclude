@@ -1,0 +1,8 @@
+.autoExclude
+terror.mdl
+*.lck
+*.tmp
+*.log
+*.log.gz
+temp
+logs

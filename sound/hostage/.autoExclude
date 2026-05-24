@@ -1,0 +1,12 @@
+hos4.wav
+hos1.wav
+hos5.wav
+.autoExclude
+hos3.wav
+hos2.wav
+*.lck
+*.tmp
+*.log
+*.log.gz
+temp
+logs
